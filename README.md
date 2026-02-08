@@ -17,5 +17,3 @@ This is a beginner-level Python project that simulates a restaurant ordering sys
 - User input
 - Basic billing logic
 
-## Author
-Shravani Gadge
